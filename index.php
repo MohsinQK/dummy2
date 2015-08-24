@@ -6,6 +6,9 @@
 	echo "asdfasdfads";
 
 
-	echo "asdfasdfasdfasd";
+	if(i--0)
+	{
+		echo" hello my first";
+	}
 
 ?>
