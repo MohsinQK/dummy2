@@ -1,14 +1,4 @@
 <?php
-	echo "wirjubg";
-
-
-
-	echo "asdfasdfads";
-
-
-	if(i--0)
-	{
-		echo" hello my first";
-	}
+	echo "i am changing this at this time which is  11:38 pm"
 
 ?>
